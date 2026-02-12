@@ -1,2 +1,2 @@
-# secret
+# password
 ak47
