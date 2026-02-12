@@ -1,2 +1,2 @@
 # secret
-find my secret
+ak47
