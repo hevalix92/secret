@@ -1,20 +1,26 @@
 # Önemli
-Bu gerçek bir Interpol Kırmızı Bültenidir. 
-Katılımcılar bilgileri resmi Interpol web sitesinde doğrulayabilirler: 
-https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices#2025-86779 
-Bu meydan okuma yalnızca OSINT eğitim amaçlıdır. 
-________________________________________ 
+Bu, Europol'ün en çok arananlar listesinde yer alan gerçek bir bilgidir.
+Katılımcılar, bilgileri Europol'ün resmi internet sitesinde doğrulayabilirler:
+https://eumostwanted.eu/de#/tymoshchuk-timoschuk-volodymyr-viktorovych-volodimir-viktorovich
 
-Hedef Bilgileri
- Adı: BENARROCH, INONE 
-Doğum tarihi: 19/05/1978 
-Yaş: 47 
-Ülke bağlantısı: İsrail, Fransa 
-Fransa tarafından aranıyor: 
-• Organize bir grup tarafından işlenen dolandırıcılık 
-• Organize dolandırıcılıkla ilgili kara para aklama 
-• 10 yıla kadar hapis cezası gerektiren bir suç komplosuna katılma 
-Bu bilgiler resmi Interpol Kırmızı Bülteninden alınmıştır. 
+# Hedef Bilgileri
+İsim: TYMOSHCHUK (ТИМОЩУК), Volodymyr Viktorovych (Володимир Вікторович)
+Doğum tarihi: 2 Ekim 1996 (29 yaşında)
+Bağlantılı ülkeler: Fransa, Ukrayna
+Fransa tarafından aranıyor
+Bilgisayarla ilgili suçlar
+Suç örgütüne katılım
+Şantaj ve gasp
+Bu veriler, Europol'ün resmi En Çok Arananlar listesinden alınmıştır.
 
-Amaç:
-Suçlunun 2015 yılındaki son bilinen adresini tespit etmek. 
+# Soruşturma Özeti (Resmi listeden)
+2018'den 2020'ye kadar Volodymyr TYMOSHCHUK ve suç ortakları, yüzlerce mağdur şirkete LOCKERGOGA fidye yazılımını
+yayma faaliyetinde bulundu. Bu saldırılar operasyonları ciddi şekilde aksattı ve birçok kuruluşu fidye taleplerini ödemeye zorladı.
+Küresel toplam zarar 18 milyar doları aştı .
+
+# Sorular 
+Kişiyle bağlantılı aracın plaka numarası
+markası
+model
+üretim yılı
+son bilinen kilometre
